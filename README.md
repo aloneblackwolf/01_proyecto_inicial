@@ -23,14 +23,14 @@
 
 ---
 
-## 📂 Estructura del Proyecto
-01-day-first-project/
+## 📂 Estructura del Proyecto <br>
+01-day-first-project/ <br>
 │
-├── assets
-├── index.html
-├── about_me.html
-├── contact.html
-├── README.md
+├── assets <br>
+├── index.html <br>
+├── about_me.html <br> 
+├── contact.html <br>
+├── README.md <br>
 
 ---
 
@@ -45,16 +45,16 @@
 
 --- Aquí está una captura de la página de inicio de nuestro proyecto:
 
-![Captura de page principal](./assets/home.png)
+![Captura de page principal](./assets/home.PNG)
 
 --- Aquí está una captura de la página de about me de nuestro proyecto:
 
-![Captura de page acerca de mi](./assets/about_me.png)
+![Captura de page acerca de mi](./assets/about.PNG)
 
 
 --- Aquí está una captura de la página de inicio de nuestro proyecto:
 
-![Captura de page contacto](./assets/contact.png)
+![Captura de page contacto](./assets/contact.PNG)
 
 ## 🧭 Lecciones Aprendidas
 
